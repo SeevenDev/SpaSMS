@@ -2,7 +2,11 @@
 <resources>
 
     <string name="app_name">SpaSMS</string>
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    
+    <string name="recipient">Destinataire</string>
+    <string name="message">Message</string>
+    <string name="send">Envoyer</string>
+    <string name="iterations">Nombre d\'envois</string>
 
 </resources>
